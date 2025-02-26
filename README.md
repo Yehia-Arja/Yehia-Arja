@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yehia-arja" alt="yehia-arja" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack engineering SE Factory**
+- 🌱 I’m currently learning **Full-stack engineering at SE Factory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
