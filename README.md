@@ -1,5 +1,5 @@
-# 💫 About Me:
-🧑‍💻 About Me<br><br>I'm Yehia Al Arja, a full-stack software engineer passionate about turning ideas into real, useful products. I enjoy building web applications, solving technical problems, and continuously improving my skills as a developer.
+# 🧑‍💻 About Me:
+I'm Yehia Al Arja, a full-stack software engineer passionate about turning ideas into real, useful products. I enjoy building web applications, solving technical problems, and continuously improving my skills as a developer.
 
 
 ## 🌐 Socials:
